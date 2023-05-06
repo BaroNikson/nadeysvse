@@ -26,7 +26,9 @@ class  Library extends Building {
 
 
 }
-class House{}
+class House{
+    private int fbv=4;
+}
 class PoliceDepartment{}
 class University{}
 class ShoppingCenter{}
